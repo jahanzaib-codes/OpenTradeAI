@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langgraph
+ib_insync
+pydantic
+polars
+redis
+websockets
