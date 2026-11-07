@@ -138,3 +138,4 @@ class PaperBroker(BaseBrokerAdapter):
 
 # Global paper broker instance
 paper_broker = PaperBroker()
+

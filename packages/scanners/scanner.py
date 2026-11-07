@@ -61,3 +61,4 @@ class UniversalMarketScanner:
 
 # Global scanner instance
 market_scanner = UniversalMarketScanner()
+

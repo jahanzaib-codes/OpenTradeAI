@@ -167,3 +167,4 @@ class DeterministicRiskEngine:
 
 # Global deterministic risk engine instance
 risk_engine = DeterministicRiskEngine()
+

@@ -48,3 +48,4 @@ class BaseBrokerAdapter(ABC):
     async def get_market_quote(self, symbol: str) -> Optional[MarketDataTick]:
         """Fetches latest quote for pricing and validation."""
         pass
+
